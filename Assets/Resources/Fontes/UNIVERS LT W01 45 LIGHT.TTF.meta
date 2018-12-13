@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 49ccd2ed42540d247af9b079fbacd612
+timeCreated: 1491442615
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Univers LT W01
+  fontNames:
+  - Univers LT W01
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

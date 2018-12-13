@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - PassablePlataform
+  - HookPoint
+  - enemyradar
+  - HookArrow
+  - HookRender
+  - Target
+  - Gun
+  - Bullet
+  - Projectile
+  - PlayerLife
+  - OrbCatcher
+  - Orb
+  - OrbEffector
+  - Jumo
+  - Banamo
+  - Walkamo
+  - HeadBoss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Player
+  - GunPass
+  - plataform
+  - HookPoint
+  - HookSurface
+  - NotCollisionThings
+  - Orb
+  - background
+  - foregroung
+  - headCollider
+  - Boss
+  - PainThings
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: 'background Z: 100'
+    uniqueID: 3135662881
+    locked: 1
+  - name: 'interactable Z: 90'
+    uniqueID: 2518050229
+    locked: 0
+  - name: 'player Z: 80'
+    uniqueID: 2240357833
+    locked: 0
+  - name: 'foreground Z: 70'
+    uniqueID: 4175729489
+    locked: 1
+  - name: 'interface Z: 60'
+    uniqueID: 4280459
+    locked: 1
+  - name: Default
+    uniqueID: 0
+    locked: 0

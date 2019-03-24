@@ -5,7 +5,7 @@ using UnityEngine;
 [RequireComponent(
 	typeof(Collectable),
 	typeof(DropItem))]
-public class Barrel : MonoBehaviour {
+public class BreakByBullet : MonoBehaviour {
 
 	[Header("Audio")]
 	public float maxPitch = 1.25f;

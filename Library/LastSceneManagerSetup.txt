@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Scenes/Level1/S1.o_beco/L1.S1.o_beco.unity
-  isLoaded: 1
-  isActive: 1
